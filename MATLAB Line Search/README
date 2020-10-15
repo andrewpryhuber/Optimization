@@ -1,0 +1,4 @@
+Matlab implementation of local minimization of a real valued function using strong
+Wolfe line search (Algorithm 3.2 in Nocedal and Wright). Given a nonlinear function 
+and an initial iterate, module finds local minimum and displays numerical and graphical 
+output. Contains two test cases with example nonlinear functions. 
